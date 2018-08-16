@@ -1,0 +1,18 @@
+.Newcontract{
+	opacity:0.9;
+}
+.Newcontract .ProductlistHead{
+	text-align:center;
+}
+.Newcontract .ProductlistID{
+	width:10%;
+}
+.Newcontract .ProductlistTitle{
+	width:10%;
+}
+.Newcontract .ProductlistOperate{
+	width:10%;
+}
+.Newcontract .ProductlistCheckbox{
+	text-align:center;
+}

@@ -1,0 +1,9 @@
+.InCertification{
+	opacity:0.88;
+	overflow:auto;
+	overflow-x: hidden;
+}
+
+.FilterBadge{
+	cursor: pointer;
+}

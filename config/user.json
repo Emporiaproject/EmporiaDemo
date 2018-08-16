@@ -1,0 +1,1 @@
+{"user":[{"name":"user1","port":3001,"devport":9230,"cellmaster":"server/index.js","proxy":"proxy/proxy.js","p2pserver":"proxy/p2pserver.js"},{"name":"user2","port":3004,"devport":9233,"cellmaster":"server/index.js","proxy":"proxy/proxy.js","p2pserver":"proxy/p2pserver.js"}]}

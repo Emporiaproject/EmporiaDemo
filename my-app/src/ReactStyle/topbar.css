@@ -1,0 +1,23 @@
+.topbar{
+	opacity:0.78;
+	z-index:5;
+	border-radius: 0px;
+}
+
+.topbar a{
+	color: #ffffff;
+	font-weight:bold;
+}
+.navbar-brand{
+	padding:0;
+}
+.navbarimg{
+	height:68px;
+}
+
+.dropdown-menu{
+	background-color: #00343f;
+}
+.dropdown-menu>li>a{
+	color:#ffffff;
+}

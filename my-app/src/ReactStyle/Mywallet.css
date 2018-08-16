@@ -1,0 +1,35 @@
+.Mywallet{
+	opacity:0.9;
+}
+
+.MywalletData{
+	text-align:center;
+}
+
+.Integer{
+	font-size:30px;
+}
+
+#console{
+	background-color:#000000;
+	color:#d0e9ff;
+	font-size:10px;
+	font-weight:bold;
+	height:300px;
+	overflow-x:hidden;
+	overflow-y:scroll;
+}
+
+.controlpanel>.panel-body{
+	padding-top:0;
+	padding-bottom:0;
+}
+
+.controlpanelRow>.col-md-4{
+	padding:0;
+}
+
+.controlpanelButton{
+	width:100%;
+	height:60px;
+}
